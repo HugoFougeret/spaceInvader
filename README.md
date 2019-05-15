@@ -9,3 +9,4 @@
 ##Fin de la première fonctionalité.
 
 ![Diagramme de class](https://user-images.githubusercontent.com/49201874/57770392-80776080-7710-11e9-88a8-0deff500bdc3.gif)
+![Nuage de class](https://user-images.githubusercontent.com/49201874/57771371-d0572700-7712-11e9-8924-e220966d62bd.png)
