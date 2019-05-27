@@ -15,3 +15,7 @@
 ## Fin de la première fonctionalité et début de la fonctionalité 2 puisqu'il y avait des bug donc jai  tout recommencé
 
 ![Nuage de class](https://user-images.githubusercontent.com/49201874/58100947-f67f3a00-7bde-11e9-86f0-b66246df46db.png)
+
+# Semaine 4
+## Fin de la quatrième fonctionalité 
+
