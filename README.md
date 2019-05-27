@@ -18,4 +18,5 @@
 
 # Semaine 4
 ## Fin de la quatrième fonctionalité 
+![Diagramme de class](https://user-images.githubusercontent.com/49201874/58404221-ecd55680-8064-11e9-8462-4d9e4a141c33.gif)
 
